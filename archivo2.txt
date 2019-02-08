@@ -1,1 +1,3 @@
 prueba de archivo2
+re prueba de archivo2
+acordate de darle ctrl S antes de añadirlo
